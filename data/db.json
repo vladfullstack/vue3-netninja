@@ -1,7 +1,31 @@
 {
   "jobs": [
-    { "title": "Ninja UX Designer", "id": 1, "details": "lorem" },
-    { "title": "Ninja Web Developer", "id": 2, "details": "lorem" },
-    { "title": "Ninja Vue Developer", "id": 3, "details": "lorem" }
+    {
+      "title": "2022 UX Designer",
+      "id": 1,
+      "details": "lorem"
+    },
+    {
+      "title": "2021 Web Developer",
+      "id": 2,
+      "details": "lorem"
+    },
+    {
+      "title": "2020 Vue Developer",
+      "id": 3,
+      "details": "lorem"
+    }
+  ],
+  "comments": [
+    {
+      "comment": "npm install json-server --save",
+      "id": 1,
+      "desc": "install dependencies"
+    },
+    {
+      "comment": "npx json-server --watch data/db.json",
+      "id": 2,
+      "desc": "run json-server by using npx"
+    }
   ]
 }
