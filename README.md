@@ -21,3 +21,8 @@ npm run build
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+###
+add vue router
+`npm install -S vue-router@3`
